@@ -1,7 +1,3 @@
-### Hi there 👋
-
-## Studing at NTNU
-
 # Projects:
 - [🗼Nydalen-Defence](https://mnbvmnbv2.github.io/Nydalen-Defence)
 - [🌆NewCity](https://mnbvmnbv2.github.io/NewCity)
