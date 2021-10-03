@@ -5,5 +5,5 @@
 * [📈RTS-RPG](https://mnbvmnbv2.github.io/RTS-RPG)
 * [🗼Nydalen-Defence](https://mnbvmnbv2.github.io/Nydalen-Defence)
 * [🖱️NydalenClicker](https://mnbvmnbv2.github.io/NydalenClicker)
-* A simple chess engine with a basic computer
+* [♟ChessAI](https://mnbvmnbv2.github.io/ChessAI/)
 * Secret private project
