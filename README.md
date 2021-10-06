@@ -6,6 +6,7 @@
 * [🗼Nydalen-Defence](https://mnbvmnbv2.github.io/Nydalen-Defence)
 * [🖱️NydalenClicker](https://mnbvmnbv2.github.io/NydalenClicker)
 * [♟ChessAI](https://mnbvmnbv2.github.io/ChessAI/)
+* [🎇ezJS](https://github.com/mnbvmnbv2/ezJS)
 * BookList scraper
 * BoardGame
 * Risk
