@@ -12,3 +12,6 @@
 * BoardGame
 * Risk
 * Secret private project
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnbvmnbv2)](https://github.com/anuraghazra/github-readme-stats)
