@@ -4,7 +4,7 @@
 * [🎪City-Builder](https://mnbvmnbv2.github.io/City-Builder/)
 * [📈RTS-RPG](https://mnbvmnbv2.github.io/RTS-RPG)
 * [🗼Nydalen-Defence](https://mnbvmnbv2.github.io/Nydalen-Defence)
-* [🖱️NydalenClicker](https://mnbvmnbv2.github.io/NydalenClicker)
+* [🖱️NydalenClicker](https://mnbvmnbv2.github.io/NydalenClicker) (Warning: sound)
 * [♟ChessAI](https://mnbvmnbv2.github.io/ChessAI/)
 * [🎇ezJS](https://github.com/mnbvmnbv2/ezJS)
 * [👓AlgoPaper](https://github.com/mnbvmnbv2/AlgoPaper/blob/main/Algoritmer%20og%20datastrukturer.pdf)
