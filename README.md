@@ -8,6 +8,7 @@
 * [♟ChessAI](https://mnbvmnbv2.github.io/ChessAI/)
 * [🎇ezJS](https://github.com/mnbvmnbv2/ezJS)
 * [👓AlgoPaper](https://github.com/mnbvmnbv2/AlgoPaper/blob/main/Algoritmer%20og%20datastrukturer.pdf)
+* [🛕EU4WondersMaker](https://github.com/mnbvmnbv2/eu4-wondersmaker)
 * BookList scraper
 * BoardGame
 * Risk
