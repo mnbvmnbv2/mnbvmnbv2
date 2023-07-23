@@ -6,10 +6,10 @@
 * [🗼Nydalen-Defence](https://mnbvmnbv2.github.io/nydalen-defence)
 * [🖱️NydalenClicker](https://mnbvmnbv2.github.io/nydalen-clicker) (Warning: sound)
 * [♟ChessAI](https://mnbvmnbv2.github.io/chess-ai/)
-* [🎇ezJS](https://github.com/mnbvmnbv2/ez-s)
+* [🎇ezJS](https://github.com/mnbvmnbv2/ez-js)
 * [👓AlgoPaper](https://github.com/mnbvmnbv2/algo-paper/blob/main/Algoritmer%20og%20datastrukturer.pdf)
 * [🛕EU4WondersMaker](https://github.com/mnbvmnbv2/eu4-wondersmaker)
-* [🎲Risk](https://github.com/mnbvmnbv2/risk)
+* [🎲Risk](https://mnbvmnbv2.github.io/risk)
 * BookList scraper
 * BoardGame
 * Secret private project
