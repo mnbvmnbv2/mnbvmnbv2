@@ -9,7 +9,7 @@
 * [🎇ezJS](https://github.com/mnbvmnbv2/ez-s)
 * [👓AlgoPaper](https://github.com/mnbvmnbv2/algo-paper/blob/main/Algoritmer%20og%20datastrukturer.pdf)
 * [🛕EU4WondersMaker](https://github.com/mnbvmnbv2/eu4-wondersmaker)
+* [🎲Risk](https://github.com/mnbvmnbv2/risk)
 * BookList scraper
 * BoardGame
-* Risk
 * Secret private project
